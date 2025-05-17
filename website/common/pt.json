@@ -2,42 +2,42 @@
   "common": {
     "tabber": "Tabber",
     "tabber_plus": "Tabber Plus",
-    "sign_up": "Sign Up",
-    "sign_in": "Sign In",
-    "sign_out": "Sign Out",
-    "free": "Free",
+    "sign_up": "Cadastrar-se",
+    "sign_in": "Entrar",
+    "sign_out": "Sair",
+    "free": "Grátis",
     "plus": "Plus"
   },
   "accept_terms": {
-    "accept": "Accept",
+    "accept": "Aceitar",
     "content": [
-      "Notice! We use cookies to provide necessary website functionality, improve your experience and analyze our traffic. By using our website, you agree to our use of cookies and to our ",
-      "Privacy Policy",
-      " and ",
-      "Terms of Service",
+      "Aviso! Nós utilizamos cookies para fornecer a funcionalidade necessária do site, melhorar sua experiência e analisar nosso tráfego. Ao usar nosso site, você concorda com o uso de cookies e com nossa ",
+      "Política de Privacidade",
+      " e ",
+      "Termos de Serviço",
       "."
     ]
   },
   "header": {
-    "home": "Home",
-    "install": "Install",
-    "pricing": "Pricing",
-    "contact": "Contact",
-    "about": "About"
+    "home": "Início",
+    "install": "Instalar",
+    "pricing": "Preços",
+    "contact": "Contato",
+    "about": "Sobre"
   },
   "footer": {
-    "about": "About",
-    "faq": "FAQs",
-    "contact": "Contact",
-    "pricing": "Pricing",
-    "credits": "Credits",
+    "about": "Sobre",
+    "faq": "FAQ",
+    "contact": "Contato",
+    "pricing": "Preços",
+    "credits": "Créditos",
     "patreon": "Patreon",
     "telegram": "Telegram",
     "twitter": "Twitter",
     "github": "GitHub",
-    "terms": "Terms of Use",
-    "privacy": "Privacy Policy",
-    "copyright": "©%year% Tabber. All rights reserved."
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "copyright": "©%year% Tabber. Todos os direitos reservados."
   },
   "languages": [
     [
