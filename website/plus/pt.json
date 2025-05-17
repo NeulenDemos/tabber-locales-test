@@ -5,13 +5,34 @@
   },
   "title": "Torne-se um Assinante do Tabber Plus",
   "features": [
-    ["Grupos de Abas Ilimitados", "Sem mais limites para o número de abas que você pode agrupar."],
-    ["Modelo de IA Avançado para Agrupamento", "Modelo de IA aprimorado para agrupamento de abas mais preciso e eficiente; limites de uso mais altos."],
-    ["Sincronização Automática na Nuvem", "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."],
-    ["Histórico Completo de Sincronização", "Acesse seu histórico completo de sincronizações e restaure qualquer backup."],
-    ["Plano de Fundo Personalizado", "Aplique um plano de fundo personalizado em páginas sem visualização."],
-    ["Suporte Prioritário", "Qualquer dúvida ou preocupação será tratada prontamente, garantindo uma experiência suave."],
-    ["Posts Exclusivos no Patreon", "Obtenha acesso exclusivo a posts no Patreon, enquetes e fique por dentro das últimas atualizações, dicas e truques."]
+    [
+      "Grupos de Abas Ilimitados",
+      "Sem mais limites para o número de abas que você pode agrupar."
+    ],
+    [
+      "Modelo de IA Avançado para Agrupamento",
+      "Modelo de IA aprimorado para agrupamento de abas mais preciso e eficiente; limites de uso mais altos."
+    ],
+    [
+      "Sincronização Automática na Nuvem",
+      "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."
+    ],
+    [
+      "Histórico Completo de Sincronização",
+      "Acesse seu histórico completo de sincronizações e restaure qualquer backup."
+    ],
+    [
+      "Plano de Fundo Personalizado",
+      "Aplique um plano de fundo personalizado em páginas sem visualização."
+    ],
+    [
+      "Suporte Prioritário",
+      "Qualquer dúvida ou preocupação será tratada prontamente, garantindo uma experiência suave."
+    ],
+    [
+      "Posts Exclusivos no Patreon",
+      "Obtenha acesso exclusivo a posts no Patreon, enquetes e fique por dentro das últimas atualizações, dicas e truques."
+    ]
   ],
   "paragraphs": [
     {
@@ -24,11 +45,26 @@
     {
       "title": "Como se Inscrever",
       "items": [
-        ["Visite Nossa Página no Patreon", "Clique no botão “Inscreva-se no Patreon” abaixo para ser redirecionado para nossa página no Patreon."],
-        ["Crie ou Faça Login na Sua Conta do Patreon", "Se você é novo no Patreon, precisará criar uma conta. Se já possui uma, basta fazer login."],
-        ["Escolha o Nível de Assinatura", "Selecione o nível de assinatura «Plus» e siga as instruções para concluir o pagamento."],
-        ["Faça Login no Tabber Usando o Patreon", "Depois de se inscrever, você precisa fazer login no Tabber usando sua conta do Patreon."],
-        ["Aproveite o Tabber Plus", "Tudo pronto! Aproveite as novas funcionalidades do Tabber Plus."]
+        [
+        "Visite Nossa Página no Patreon",
+        "Clique no botão “Inscreva-se no Patreon” abaixo para ser redirecionado para nossa página no Patreon."
+        ],
+        [
+        "Crie ou Faça Login na Sua Conta do Patreon",
+        "Se você é novo no Patreon, precisará criar uma conta. Se já possui uma, basta fazer login."
+        ],
+        [
+        "Escolha o Nível de Assinatura",
+        "Selecione o nível de assinatura «Plus» e siga as instruções para concluir o pagamento."
+        ],
+        [
+        "Faça Login no Tabber Usando o Patreon",
+        "Depois de se inscrever, você precisa fazer login no Tabber usando sua conta do Patreon."
+        ],
+        [
+        "Aproveite o Tabber Plus",
+        "Tudo pronto! Aproveite as novas funcionalidades do Tabber Plus."
+        ]
       ],
       "note": "NOTA: Se você já está logado no Tabber, precisará sair e entrar novamente usando sua conta do Patreon. Se o seu e-mail do Tabber e do Patreon não coincidirem, você será registrado como um novo usuário e seus dados anteriores não serão transferidos."
     },
@@ -38,7 +74,13 @@
     },
     {
       "title": "Dúvidas?",
-      "description": ["Se você tem alguma dúvida ou preocupação, por favor não hesite em ", "entrar em contato conosco", " ou verificar nossa ", "seção de Perguntas Frequentes", "."]
+      "description": [
+        "Se você tem alguma dúvida ou preocupação, por favor não hesite em ",
+        "entrar em contato conosco",
+        " ou verificar nossa ",
+        "seção de Perguntas Frequentes",
+        "."
+      ]
     }
   ],
   "subscribe": "Inscreva-se no Patreon"
