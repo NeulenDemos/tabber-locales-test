@@ -13,7 +13,7 @@
       "question": "Що було незрозуміло, дратівливо чи щось інше?",
       "suggestion": {
         "label": "Задайте нам питання",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "Яка була помилка або відсутня функція?",
       "suggestion": {
         "label": "Зв'яжіться з нами для отримання допомоги",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "Які у вас побоювання щодо конфіденційності?",
       "suggestion": {
         "label": "Перегляньте нашу Політику конфіденційності",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
