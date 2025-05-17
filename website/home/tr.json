@@ -9,7 +9,10 @@
   "description": "Kullanılmayan sekmeleri organize sanal sekme gruplarına kaydederek ve tüm cihazlarınızla senkronize ederek taramanızı basitleştirin.",
   "watch_demo": "Demo İzle",
   "install": {
-    "description": ["Dağınıklıktan arınmış bir tarama deneyimi için Tabber'ı yükleyin.", "Chrome, Edge, Firefox ve Opera'da kullanılabilir. Sekmelerinizi bugün düzenleyin!"],
+    "description": [
+      "Dağınıklıktan arınmış bir tarama deneyimi için Tabber'ı yükleyin.",
+      "Chrome, Edge, Firefox ve Opera'da kullanılabilir. Sekmelerinizi bugün düzenleyin!"
+    ],
     "info": "Tarayıcı yerleşik sekme grupları manipülasyonu sadece Chrome, Edge ve Opera'da (Opera GX hariç) mevcuttur. En iyi deneyim için, bu tarayıcılardan birinde Tabber kullanmanızı öneririz."
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "Gönder",
       "success": "Mesajınız başarıyla gönderildi. En kısa sürede size geri döneceğiz.",
       "error": "Mesajınızı gönderirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
-      "disclaimer": ["Bu formu göndererek, ", "hizmet şartlarımızı", " ve ", "gizlilik politikamızı", " kabul etmiş olursunuz."]
+      "disclaimer": [
+        "Bu formu göndererek, ",
+        "hizmet şartlarımızı",
+        " ve ",
+        "gizlilik politikamızı",
+        " kabul etmiş olursunuz."
+      ]
     }
   },
   "about": {
