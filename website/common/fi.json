@@ -1,0 +1,88 @@
+{
+  "common": {
+    "tabber": "",
+    "tabber_plus": "",
+    "sign_up": "",
+    "sign_in": "",
+    "sign_out": "",
+    "free": "",
+    "plus": ""
+  },
+  "accept_terms": {
+    "accept": "",
+    "content": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "header": {
+    "home": "",
+    "install": "",
+    "pricing": "",
+    "contact": "",
+    "about": ""
+  },
+  "footer": {
+    "about": "",
+    "faq": "",
+    "contact": "",
+    "pricing": "",
+    "credits": "",
+    "patreon": "",
+    "telegram": "",
+    "twitter": "",
+    "github": "",
+    "terms": "",
+    "privacy": "",
+    "copyright": ""
+  },
+  "languages": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
+  ]
+}
