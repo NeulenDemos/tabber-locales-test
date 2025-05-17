@@ -9,7 +9,7 @@
       "description": "Has cerrado sesión en Tabber"
     },
     "error": {
-      "title": "Error",
+      "title": "",
       "description": "Algo salió mal al iniciar sesión"
     },
     "verify_request": {
@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "Revisa tu correo electrónico",
-    "description": ["Se ha enviado un enlace de inicio de sesión a tu dirección de correo electrónico."],
+    "description": [
+      "Se ha enviado un enlace de inicio de sesión a tu dirección de correo electrónico."
+    ],
     "open_gmail": "Abrir Gmail"
   }
 }
