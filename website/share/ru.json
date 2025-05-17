@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": {
-      "default": "%color% %name%",
+      "default": "",
       "no_name": "%color% Группа Вкладок"
     },
     "description": {
