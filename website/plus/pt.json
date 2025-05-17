@@ -1,87 +1,87 @@
 {
   "meta": {
     "title": "Tabber Plus",
-    "description": "Unlock the full power of Tabber with Tabber Plus. Subscribe to gain access to a suite of premium features designed to elevate your Tabber experience."
+    "description": "Desbloqueie todo o poder do Tabber com o Tabber Plus. Assine para ter acesso a uma suíte de recursos premium projetados para elevar sua experiência com o Tabber."
   },
-  "title": "Become a Tabber Plus Subscriber",
+  "title": "Torne-se um Assinante do Tabber Plus",
   "features": [
     [
-      "Unlimited Tab Groups",
-      "No more limits to the number of tabs you can group."
+      "Grupos de Abas Ilimitados",
+      "Sem mais limites para o número de abas que você pode agrupar."
     ],
     [
-      "Advanced AI Model for Grouping",
-      "Enhanced AI model for more accurate and efficient tab grouping; higher usage limits."
+      "Modelo de IA Avançado para Agrupamento",
+      "Modelo de IA aprimorado para agrupamento de abas mais preciso e eficiente; limites de uso mais altos."
     ],
     [
-      "Auto Cloud Sync",
-      "Your tabs are automatically synced across all your devices."
+      "Sincronização Automática na Nuvem",
+      "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."
     ],
     [
-      "Full Sync History",
-      "Access your full synchronizations history and restore any backup."
+      "Histórico Completo de Sincronização",
+      "Acesse seu histórico completo de sincronizações e restaure qualquer backup."
     ],
     [
-      "Custom Background",
-      "Apply a custom background to pages without previews."
+      "Plano de Fundo Personalizado",
+      "Aplique um plano de fundo personalizado em páginas sem visualização."
     ],
     [
-      "Priority Support",
-      "Any questions and concerns will be addressed promptly, ensuring a smooth experience."
+      "Suporte Prioritário",
+      "Qualquer dúvida ou preocupação será tratada prontamente, garantindo uma experiência suave."
     ],
     [
-      "Exclusive Patreon Posts",
-      "Get exclusive access to Patreon posts, polls and stay in the loop with the latest updates, tips, and tricks."
+      "Posts Exclusivos no Patreon",
+      "Obtenha acesso exclusivo a posts no Patreon, enquetes e fique por dentro das últimas atualizações, dicas e truques."
     ]
   ],
   "paragraphs": [
     {
-      "title": "Unlock the Full Power of Tabber with Tabber Plus",
-      "description": "Welcome to the world of enhanced browsing! By subscribing to Tabber Plus, you gain access to a suite of premium features designed to elevate your Tabber experience. Join us on this journey to make your browsing more efficient, organized, and seamless."
+      "title": "Desbloqueie o Poder Total do Tabber com Tabber Plus",
+      "description": "Bem-vindo ao mundo da navegação aprimorada! Ao se inscrever no Tabber Plus, você ganha acesso a um conjunto de recursos premium projetados para elevar sua experiência com o Tabber. Junte-se a nós nesta jornada para tornar sua navegação mais eficiente, organizada e sem interrupções."
     },
     {
-      "title": "What You Get with Tabber Plus"
+      "title": "O que Você Ganha com o Tabber Plus"
     },
     {
-      "title": "How to Subscribe",
+      "title": "Como se Inscrever",
       "items": [
         [
-        "Visit Our Patreon Page",
-        "Click the “Subscribe on Patreon” button below to be redirected to our Patreon page."
+        "Visite Nossa Página no Patreon",
+        "Clique no botão “Inscreva-se no Patreon” abaixo para ser redirecionado para nossa página no Patreon."
         ],
         [
-        "Create or Log In to Your Patreon Account",
-        "If you’re new to Patreon, you’ll need to create an account. If you already have one, simply log in."
+        "Crie ou Faça Login na Sua Conta do Patreon",
+        "Se você é novo no Patreon, precisará criar uma conta. Se já possui uma, basta fazer login."
         ],
         [
-        "Choose Subscription Tier",
-        "Select the «Plus» subscription tier and follow the instructions to complete payment."
+        "Escolha o Nível de Assinatura",
+        "Selecione o nível de assinatura «Plus» e siga as instruções para concluir o pagamento."
         ],
         [
-        "Log In to Tabber using Patreon",
-        "Once you’ve subscribed, you have to log in to Tabber using your Patreon account."
+        "Faça Login no Tabber Usando o Patreon",
+        "Depois de se inscrever, você precisa fazer login no Tabber usando sua conta do Patreon."
         ],
         [
-        "Enjoy Tabber Plus",
-        "You’re all set! Enjoy your new Tabber Plus features."
+        "Aproveite o Tabber Plus",
+        "Tudo pronto! Aproveite as novas funcionalidades do Tabber Plus."
         ]
       ],
-      "note": "NOTE: If you’re already logged in to Tabber, you’ll need to log out and log back in using your Patreon account. If your Tabber and Patreon emails do not match, you'll be registered as a new user and your previous data won’t be transferred."
+      "note": "NOTA: Se você já está logado no Tabber, precisará sair e entrar novamente usando sua conta do Patreon. Se o seu e-mail do Tabber e do Patreon não coincidirem, você será registrado como um novo usuário e seus dados anteriores não serão transferidos."
     },
     {
-      "title": "Can't subscribe via Patreon?",
-      "description": "We are currently working on the possibility of introducing subscriptions through other services. This will appear in the next update, stay tuned!"
+      "title": "Não consegue se inscrever via Patreon?",
+      "description": "Atualmente, estamos trabalhando na possibilidade de introduzir assinaturas por outros serviços. Isso aparecerá na próxima atualização, fique atento!"
     },
     {
-      "title": "Questions?",
+      "title": "Dúvidas?",
       "description": [
-        "If you have any questions or concerns, please don’t hesitate to ",
-        "contact us",
-        " or check our ",
-        "FAQ",
-        " section."
+        "Se você tem alguma dúvida ou preocupação, por favor não hesite em ",
+        "entrar em contato conosco",
+        " ou verificar nossa ",
+        "seção de Perguntas Frequentes",
+        "."
       ]
     }
   ],
-  "subscribe": "Subscribe on Patreon"
+  "subscribe": "Inscreva-se no Patreon"
 }
