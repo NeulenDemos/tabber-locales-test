@@ -9,7 +9,10 @@
   "description": "Simplifique sua navegação, preservando abas não utilizadas em grupos organizados de abas virtuais e sincronizando-as com todos os dispositivos.",
   "watch_demo": "Assistir demonstração",
   "install": {
-    "description": ["Instale o Tabber para uma experiência de navegação livre de bagunça.", "Disponível no Chrome, Edge, Firefox e Opera. Otimize suas abas hoje!"],
+    "description": [
+      "Instale o Tabber para uma experiência de navegação livre de bagunça.",
+      "Disponível no Chrome, Edge, Firefox e Opera. Otimize suas abas hoje!"
+    ],
     "info": "A manipulação nativa de grupos de abas no navegador está disponível apenas no Chrome, Edge e Opera (não no Opera GX). Para a melhor experiência, recomendamos o uso do Tabber em um desses navegadores."
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "Enviar",
       "success": "Sua mensagem foi enviada com sucesso. Entraremos em contato o mais rápido possível.",
       "error": "Ocorreu um erro ao enviar sua mensagem. Por favor, tente novamente mais tarde.",
-      "disclaimer": ["Ao enviar este formulário, você concorda com nossos ", "termos de serviço", " e ", "política de privacidade", "."]
+      "disclaimer": [
+        "Ao enviar este formulário, você concorda com nossos ",
+        "termos de serviço",
+        " e ",
+        "política de privacidade",
+        "."
+      ]
     }
   },
   "about": {
