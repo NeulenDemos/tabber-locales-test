@@ -9,7 +9,10 @@
   "description": "通過將未使用的標籤頁保存到有組織的虛擬標籤頁組中，並與所有裝置同步，簡化您的瀏覽體驗。",
   "watch_demo": "觀看示範",
   "install": {
-    "description": ["為了無雜亂的瀏覽體驗，安裝Tabber。", "適用於Chrome、Edge、Firefox和Opera。今天就開始整理你的標籤頁！"],
+    "description": [
+      "為了無雜亂的瀏覽體驗，安裝Tabber。",
+      "適用於Chrome、Edge、Firefox和Opera。今天就開始整理你的標籤頁！"
+    ],
     "info": "瀏覽器原生標籤頁組操作僅在Chrome、Edge和Opera（不包括Opera GX）中可用。為了獲得最佳體驗，我們推薦在這些瀏覽器之一上使用Tabber。"
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "提交",
       "success": "您的訊息已成功發送。我們會儘快回覆您。",
       "error": "發送您的訊息時發生錯誤。請稍後再試。",
-      "disclaimer": ["通過提交此表單，您同意我們的", "服務條款", "和", "隱私政策", "。"]
+      "disclaimer": [
+        "通過提交此表單，您同意我們的",
+        "服務條款",
+        "和",
+        "隱私政策",
+        "。"
+      ]
     }
   },
   "about": {
