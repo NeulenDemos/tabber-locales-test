@@ -4,7 +4,13 @@
     "description": "Tabber hakkında sıkça sorulan sorular"
   },
   "title": "Sıkça Sorulan Sorular",
-  "footer": ["Aradığınız cevabı bulamadınız mı? Aşağıdaki ", "iletişim formunu", " kullanın veya ", "tabber@neulen.dev", " adresinden bize ulaşın."],
+  "footer": [
+    "Aradığınız cevabı bulamadınız mı? Aşağıdaki ",
+    "iletişim formunu",
+    " kullanın veya ",
+    "",
+    " adresinden bize ulaşın."
+  ],
   "items": [
     {
       "question": "Firefox'ta sekme yakalayamıyorum. Ne yapmalıyım?",
