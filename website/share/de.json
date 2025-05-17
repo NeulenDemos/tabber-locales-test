@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": {
-      "default": "%color% %name%",
+      "default": "",
       "no_name": "%color% Tab-Gruppe"
     },
     "description": {
@@ -16,12 +16,12 @@
   "title": "%user% hat eine Tab-Gruppe mit dir geteilt!",
   "somebody": "Jemand",
   "tab": {
-    "zero": "%count% Tabs",
-    "one": "%count% Tab",
-    "two": "%count% Tabs",
-    "few": "%count% Tabs",
-    "many": "%count% Tabs",
-    "other": "%count% Tabs"
+    "zero": "",
+    "one": "",
+    "two": "",
+    "few": "",
+    "many": "",
+    "other": ""
   },
   "sign_in_to_import": "Melden Sie sich an, um diese Gruppe zu importieren",
   "requirement": "Sie benötigen Tabber, um diese Gruppe zu importieren",
