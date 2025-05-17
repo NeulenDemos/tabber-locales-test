@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "",
+      "no_name": ""
+    },
+    "description": {
+      "default": "",
+      "no_user": ""
+    },
+    "not_found": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "title": "",
+  "somebody": "",
+  "tab": {
+    "zero": "",
+    "one": "",
+    "two": "",
+    "few": "",
+    "many": "",
+    "other": ""
+  },
+  "sign_in_to_import": "",
+  "requirement": "",
+  "import": "",
+  "not_found": {
+    "title": "",
+    "subtitle": ""
+  }
+}
