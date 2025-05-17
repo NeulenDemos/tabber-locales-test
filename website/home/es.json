@@ -9,7 +9,10 @@
   "description": "Simplifica tu navegación guardando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronizándolas con todos tus dispositivos.",
   "watch_demo": "Ver demostración",
   "install": {
-    "description": ["Instala Tabber para una experiencia de navegación sin desorden.", "Disponible en Chrome, Edge, Firefox y Opera. ¡Organiza tus pestañas hoy mismo!"],
+    "description": [
+      "Instala Tabber para una experiencia de navegación sin desorden.",
+      "Disponible en Chrome, Edge, Firefox y Opera. ¡Organiza tus pestañas hoy mismo!"
+    ],
     "info": "La manipulación nativa de grupos de pestañas en el navegador solo está disponible en Chrome, Edge y Opera (no en Opera GX). Para la mejor experiencia, recomendamos usar Tabber en uno de estos navegadores."
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "Enviar",
       "success": "Tu mensaje se ha enviado con éxito. Nos pondremos en contacto contigo lo antes posible.",
       "error": "Ocurrió un error al enviar tu mensaje. Por favor, inténtalo de nuevo más tarde.",
-      "disclaimer": ["Al enviar este formulario, aceptas nuestros ", "términos de servicio", " y ", "política de privacidad", "."]
+      "disclaimer": [
+        "Al enviar este formulario, aceptas nuestros ",
+        "términos de servicio",
+        " y ",
+        "política de privacidad",
+        "."
+      ]
     }
   },
   "about": {
