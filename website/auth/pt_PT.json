@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "Verifique seu e-mail",
-    "description": ["Um link de acesso foi enviado para o seu endereço de e-mail."],
+    "description": [
+      "Um link de acesso foi enviado para o seu endereço de e-mail."
+    ],
     "open_gmail": "Abrir Gmail"
   }
 }
