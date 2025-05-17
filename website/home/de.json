@@ -4,12 +4,15 @@
     "description": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen von virtuellen Tabs speichern und mit allen Geräten synchronisieren.",
     "keywords": "Tabber, Tabber-Erweiterung, Tab-Manager, Tab-Gruppen-Tool, Tabs speichern-App, Browser-Tabs organisieren, virtuelle Tab-Gruppen, Browser-Tab-Organizer, geräteübergreifende Tab-Synchronisierung, anpassbare Tab-Gruppen, Produktivitäts-Browser-Erweiterung, ungenutzte Tabs verwalten, Browsing optimieren, geräteübergreifende Tab-Organisation, Tab-Vorschau-Tool, Browsing vereinfachen, bester Tab-Manager, Browser-Tab-Gruppen-App, Tabs einfach organisieren, Produktivitäts-Tool für den Browser"
   },
-  "title": "Tabber",
+  "title": "",
   "subtitle": "Ultimative Lösung zur Tab-Organisation",
   "description": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen von virtuellen Tabs speichern und mit allen Geräten synchronisieren.",
   "watch_demo": "Demo ansehen",
   "install": {
-    "description": ["Installieren Sie Tabber für ein übersichtliches Browser-Erlebnis.", "Verfügbar für Chrome, Edge, Firefox und Opera. Organisieren Sie Ihre Tabs noch heute!"],
+    "description": [
+      "Installieren Sie Tabber für ein übersichtliches Browser-Erlebnis.",
+      "Verfügbar für Chrome, Edge, Firefox und Opera. Organisieren Sie Ihre Tabs noch heute!"
+    ],
     "info": "Die native Tab-Gruppenmanipulation im Browser ist nur in Chrome, Edge und Opera (nicht Opera GX) verfügbar. Für das beste Erlebnis empfehlen wir die Verwendung von Tabber in einem dieser Browser."
   },
   "pricing": {
@@ -26,7 +29,7 @@
     ],
     "get_started": "Loslegen",
     "plus": {
-      "title": "Tabber Plus",
+      "title": "",
       "description": "Erweitern Sie Ihr Web-Browsing-Erlebnis mit Tabber Plus. Verabschieden Sie sich von Tab-Chaos und entdecken Sie eine Welt von produktivitätssteigernden Tools, die Ihre Online-Arbeit revolutionieren werden.",
       "upgrade": "Auf Plus upgraden",
       "price": "Nur $%price%/Monat"
@@ -38,13 +41,19 @@
     "faq": "FAQ durchsuchen",
     "form": {
       "title": "Kontaktieren Sie uns",
-      "name": "Name",
+      "name": "",
       "email": "E-Mail",
       "message": "Nachricht",
       "submit": "Absenden",
       "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.",
       "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
-      "disclaimer": ["Mit dem Absenden dieses Formulars stimmen Sie unseren ", "Nutzungsbedingungen", " und ", "Datenschutzrichtlinien", " zu."]
+      "disclaimer": [
+        "Mit dem Absenden dieses Formulars stimmen Sie unseren ",
+        "Nutzungsbedingungen",
+        " und ",
+        "Datenschutzrichtlinien",
+        " zu."
+      ]
     }
   },
   "about": {
