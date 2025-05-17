@@ -9,7 +9,10 @@
   "description": "通过将未使用的标签页保存到有组织的虚拟标签页组中，并与所有设备同步，简化您的浏览体验。",
   "watch_demo": "观看演示",
   "install": {
-    "description": ["为了无杂乱的浏览体验，安装Tabber。", "适用于Chrome、Edge、Firefox和Opera。今天就开始整理你的标签页！"],
+    "description": [
+      "为了无杂乱的浏览体验，安装Tabber。",
+      "适用于Chrome、Edge、Firefox和Opera。今天就开始整理你的标签页！"
+    ],
     "info": "浏览器原生标签页组操作仅在Chrome、Edge和Opera（不包括Opera GX）中可用。为了获得最佳体验，我们推荐在这些浏览器之一上使用Tabber。"
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "提交",
       "success": "您的消息已成功发送。我们会尽快回复您。",
       "error": "发送您的消息时发生错误。请稍后再试。",
-      "disclaimer": ["通过提交此表单，您同意我们的", "服务条款", "和", "隐私政策", "。"]
+      "disclaimer": [
+        "通过提交此表单，您同意我们的",
+        "服务条款",
+        "和",
+        "隐私政策",
+        "。"
+      ]
     }
   },
   "about": {
