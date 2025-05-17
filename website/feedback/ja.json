@@ -13,7 +13,7 @@
       "question": "混乱した、イライラした、またはその他の理由ですか？",
       "suggestion": {
         "label": "質問をしてください",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "バグまたは見つからなかった機能は何ですか？",
       "suggestion": {
         "label": "サポートの連絡をする",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "プライバシーの懸念は何ですか？",
       "suggestion": {
         "label": "プライバシーポリシーをご確認ください",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
