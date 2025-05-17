@@ -1,10 +1,16 @@
 {
   "meta": {
-    "title": "FAQs",
+    "title": "",
     "description": "Questions fréquemment posées sur Tabber"
   },
   "title": "Questions Fréquemment Posées",
-  "footer": ["Vous n'avez pas trouvé la réponse que vous cherchiez ? Utilisez le ", "formulaire de contact", " suivant ou contactez-nous à ", "tabber@neulen.dev", "."],
+  "footer": [
+    "Vous n'avez pas trouvé la réponse que vous cherchiez ? Utilisez le ",
+    "formulaire de contact",
+    " suivant ou contactez-nous à ",
+    "",
+    ""
+  ],
   "items": [
     {
       "question": "Je n'arrive pas à capturer un onglet sur Firefox. Que dois-je faire ?",
