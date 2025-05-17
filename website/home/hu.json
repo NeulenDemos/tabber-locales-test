@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "",
+    "description": "",
+    "keywords": ""
+  },
+  "title": "",
+  "subtitle": "",
+  "description": "",
+  "watch_demo": "",
+  "install": {
+    "description": [
+      "",
+      ""
+    ],
+    "info": ""
+  },
+  "pricing": {
+    "title": "",
+    "description": "",
+    "free_features": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "get_started": "",
+    "plus": {
+      "title": "",
+      "description": "",
+      "upgrade": "",
+      "price": ""
+    }
+  },
+  "support": {
+    "title": "",
+    "description": "",
+    "faq": "",
+    "form": {
+      "title": "",
+      "name": "",
+      "email": "",
+      "message": "",
+      "submit": "",
+      "success": "",
+      "error": "",
+      "disclaimer": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "",
+        "description": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "description": [
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}
