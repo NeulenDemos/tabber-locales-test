@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "Vérifiez votre e-mail",
-    "description": ["Un lien de connexion a été envoyé à votre adresse e-mail."],
+    "description": [
+      "Un lien de connexion a été envoyé à votre adresse e-mail."
+    ],
     "open_gmail": "Ouvrir Gmail"
   }
 }
