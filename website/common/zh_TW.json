@@ -1,7 +1,7 @@
 {
   "common": {
-    "tabber": "Tabber",
-    "tabber_plus": "Tabber Plus",
+    "tabber": "",
+    "tabber_plus": "",
     "sign_up": "註冊",
     "sign_in": "登入",
     "sign_out": "登出",
@@ -31,25 +31,58 @@
     "contact": "聯絡",
     "pricing": "價格",
     "credits": "致謝",
-    "patreon": "Patreon",
+    "patreon": "",
     "telegram": "電報",
     "twitter": "推特",
-    "github": "GitHub",
+    "github": "",
     "terms": "使用條款",
     "privacy": "隱私政策",
     "copyright": "©%year% Tabber。版權所有。"
   },
   "languages": [
-    ["English", "en"],
-    ["Deutsch", "de"],
-    ["Español", "es"],
-    ["Français", "fr"],
-    ["Português", "pt"],
-    ["Русский", "ru"],
-    ["Türkçe", "tr"],
-    ["Українська", "uk"],
-    ["日本語", "ja"],
-    ["简体中文", "zh_CN"],
-    ["繁體中文", "zh_TW"]
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
   ]
 }
