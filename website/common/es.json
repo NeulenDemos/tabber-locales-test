@@ -1,12 +1,12 @@
 {
   "common": {
-    "tabber": "Tabber",
-    "tabber_plus": "Tabber Plus",
+    "tabber": "",
+    "tabber_plus": "",
     "sign_up": "Registrarse",
     "sign_in": "Iniciar Sesión",
     "sign_out": "Cerrar Sesión",
     "free": "Gratis",
-    "plus": "Plus"
+    "plus": ""
   },
   "accept_terms": {
     "accept": "Aceptar",
@@ -15,7 +15,7 @@
       "Política de privacidad",
       " y ",
       "Términos de servicio",
-      "."
+      ""
     ]
   },
   "header": {
@@ -31,25 +31,58 @@
     "contact": "Contacto",
     "pricing": "Precios",
     "credits": "Créditos",
-    "patreon": "Patreon",
-    "telegram": "Telegram",
-    "twitter": "Twitter",
-    "github": "GitHub",
+    "patreon": "",
+    "telegram": "",
+    "twitter": "",
+    "github": "",
     "terms": "Términos de Uso",
     "privacy": "Política de Privacidad",
     "copyright": "©%year% Tabber. Todos los derechos reservados."
   },
   "languages": [
-    ["English", "en"],
-    ["Deutsch", "de"],
-    ["Español", "es"],
-    ["Français", "fr"],
-    ["Português", "pt"],
-    ["Русский", "ru"],
-    ["Türkçe", "tr"],
-    ["Українська", "uk"],
-    ["日本語", "ja"],
-    ["简体中文", "zh_CN"],
-    ["繁體中文", "zh_TW"]
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
   ]
 }
