@@ -4,7 +4,13 @@
     "description": "Häufig gestellte Fragen zu Tabber"
   },
   "title": "Häufig gestellte Fragen",
-  "footer": ["Haben Sie nicht die Antwort gefunden, die Sie gesucht haben? Verwenden Sie das folgende ", "Kontaktformular", " oder kontaktieren Sie uns unter ", "tabber@neulen.dev", "."],
+  "footer": [
+    "Haben Sie nicht die Antwort gefunden, die Sie gesucht haben? Verwenden Sie das folgende ",
+    "Kontaktformular",
+    " oder kontaktieren Sie uns unter ",
+    "tabber@neulen.dev",
+    "."
+  ],
   "items": [
     {
       "question": "Ich kann keinen Tab in Firefox erfassen. Was soll ich tun?",
