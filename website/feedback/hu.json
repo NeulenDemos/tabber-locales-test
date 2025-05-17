@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "",
+    "description": ""
+  },
+  "title": "",
+  "description": "",
+  "submit": "",
+  "success": "",
+  "items": {
+    "usability_issues": {
+      "label": "",
+      "question": "",
+      "suggestion": {
+        "label": "",
+        "link": ""
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "",
+      "question": "",
+      "suggestion": {
+        "label": "",
+        "link": ""
+      }
+    },
+    "privacy_concerns": {
+      "label": "",
+      "question": "",
+      "suggestion": {
+        "label": "",
+        "link": ""
+      }
+    },
+    "found_better_alternative": {
+      "label": "",
+      "question": ""
+    },
+    "no_longer_needed": {
+      "label": "",
+      "question": ""
+    },
+    "other": {
+      "label": "",
+      "question": ""
+    }
+  }
+}
