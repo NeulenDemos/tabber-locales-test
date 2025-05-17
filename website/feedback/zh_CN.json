@@ -13,7 +13,7 @@
       "question": "是令人困惑、烦人，还是其他原因？",
       "suggestion": {
         "label": "向我们提问",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "是什么错误或缺失的功能？",
       "suggestion": {
         "label": "联系我们获取帮助",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "您的隐私担忧是什么？",
       "suggestion": {
         "label": "查看我们的隐私政策",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
