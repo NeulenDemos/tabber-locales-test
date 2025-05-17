@@ -13,7 +13,7 @@
       "question": "Était-ce déroutant, agaçant ou autre chose?",
       "suggestion": {
         "label": "Posez-nous une question",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "Quel était le bug ou la fonctionnalité manquante?",
       "suggestion": {
         "label": "Contactez-nous pour obtenir de l'aide",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "Quelles sont vos préoccupations concernant la confidentialité?",
       "suggestion": {
         "label": "Consultez notre Politique de Confidentialité",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
