@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "メールを確認してください",
-    "description": ["サインインリンクがメールアドレスに送信されました。"],
+    "description": [
+      "サインインリンクがメールアドレスに送信されました。"
+    ],
     "open_gmail": "Gmailを開く"
   }
 }
