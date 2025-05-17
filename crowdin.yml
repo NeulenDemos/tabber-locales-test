@@ -1,23 +1,12 @@
 preserve_hierarchy: true
-skip_untranslated_files: true
 
 files:
   - source: /extension/en/messages.json
-    translation: /extension/%locale%/%original_file_name%
-    languages_mapping:
-      locale:
-        pt-PT: pt_PT
-        zh-CN: zh_cn
-        zh-TW: zh_tw
+    translation: /extension/%two_letters_code%/%original_file_name%
 
   - source: /website/**/en.json
-    translation: /website/**/%locale%.json
+    translation: /website/**/%two_letters_code%.json
     ignore:
       - /website/privacy/**
       - /website/terms/**
       - /website/update/**
-    languages_mapping:
-      locale:
-        pt-PT: pt
-        zh-CN: zh_CN
-        zh-TW: zh_TW
