@@ -1,12 +1,12 @@
 {
   "common": {
-    "tabber": "Tabber",
-    "tabber_plus": "Tabber Plus",
+    "tabber": "",
+    "tabber_plus": "",
     "sign_up": "Kaydol",
     "sign_in": "Giriş Yap",
     "sign_out": "Çıkış Yap",
     "free": "Ücretsiz",
-    "plus": "Plus"
+    "plus": ""
   },
   "accept_terms": {
     "accept": "Kabul et",
@@ -31,25 +31,58 @@
     "contact": "İletişim",
     "pricing": "Fiyatlandırma",
     "credits": "Katkıda Bulunanlar",
-    "patreon": "Patreon",
-    "telegram": "Telegram",
-    "twitter": "Twitter",
-    "github": "GitHub",
+    "patreon": "",
+    "telegram": "",
+    "twitter": "",
+    "github": "",
     "terms": "Kullanım Koşulları",
     "privacy": "Gizlilik Politikası",
     "copyright": "©%year% Tabber. Tüm hakları saklıdır."
   },
   "languages": [
-    ["English", "en"],
-    ["Deutsch", "de"],
-    ["Español", "es"],
-    ["Français", "fr"],
-    ["Português", "pt"],
-    ["Русский", "ru"],
-    ["Türkçe", "tr"],
-    ["Українська", "uk"],
-    ["日本語", "ja"],
-    ["简体中文", "zh_CN"],
-    ["繁體中文", "zh_TW"]
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
   ]
 }
