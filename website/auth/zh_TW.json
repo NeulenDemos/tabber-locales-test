@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "檢查您的電子郵件",
-    "description": ["登入連結已發送到您的電子郵件地址。"],
+    "description": [
+      "登入連結已發送到您的電子郵件地址。"
+    ],
     "open_gmail": "開啟Gmail"
   }
 }
