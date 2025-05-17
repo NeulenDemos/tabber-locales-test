@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "Überprüfen Sie Ihre E-Mail",
-    "description": ["Ein Anmeldelink wurde an Ihre E-Mail-Adresse gesendet."],
+    "description": [
+      "Ein Anmeldelink wurde an Ihre E-Mail-Adresse gesendet."
+    ],
     "open_gmail": "Gmail öffnen"
   }
 }
