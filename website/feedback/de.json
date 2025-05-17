@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Feedback",
+    "title": "",
     "description": "Helfen Sie uns, Tabber zu verbessern, indem Sie Ihr Feedback mit uns teilen."
   },
   "title": "Es tut uns leid, dich gehen zu sehen! 😢",
@@ -13,7 +13,7 @@
       "question": "War es verwirrend, ärgerlich oder etwas anderes?",
       "suggestion": {
         "label": "Stelle uns eine Frage",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "Was war der Fehler oder die fehlende Funktion?",
       "suggestion": {
         "label": "Kontaktiere uns für Hilfe",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "Was sind deine Datenschutzbedenken?",
       "suggestion": {
         "label": "Überprüfe unsere Datenschutzrichtlinie",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
