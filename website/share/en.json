@@ -1,33 +1,33 @@
 {
   "meta": {
     "title": {
-      "default": "%color% %name%",
-      "no_name": "%color% Tab Group"
+      "default": "",
+      "no_name": ""
     },
     "description": {
-      "default": "Tab group shared by %user% on Tabber",
-      "no_user": "Tab group shared on Tabber"
+      "default": "",
+      "no_user": ""
     },
     "not_found": {
-      "title": "Not Found",
-      "description": "The tab group you are trying to import does not exist or has been deleted."
+      "title": "",
+      "description": ""
     }
   },
-  "title": "%user% shared a tab group with you!",
-  "somebody": "Somebody",
+  "title": "",
+  "somebody": "",
   "tab": {
-    "zero": "%count% Tabs",
-    "one": "%count% Tab",
-    "two": "%count% Tabs",
-    "few": "%count% Tabs",
-    "many": "%count% Tabs",
-    "other": "%count% Tabs"
+    "zero": "",
+    "one": "",
+    "two": "",
+    "few": "",
+    "many": "",
+    "other": ""
   },
-  "sign_in_to_import": "Sign in to import this group",
-  "requirement": "You need Tabber installed to import this group",
-  "import": "Import",
+  "sign_in_to_import": "",
+  "requirement": "",
+  "import": "",
   "not_found": {
-    "title": "Tab group not found",
-    "subtitle": "The tab group you are trying to import does not exist or has been deleted."
+    "title": "",
+    "subtitle": ""
   }
 }
