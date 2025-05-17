@@ -2,11 +2,21 @@ preserve_hierarchy: true
 
 files:
   - source: /extension/en/messages.json
-    translation: /extension/%two_letters_code%/%original_file_name%
+    translation: /extension/%locale%/%original_file_name%
+    languages_mapping:
+      locale:
+        pt-PT: pt_PT
+        zh-CN: zh_cn
+        zh-TW: zh_tw
 
   - source: /website/**/en.json
-    translation: /website/**/%two_letters_code%.json
+    translation: /website/**/%locale%.json
     ignore:
       - /website/privacy/**
       - /website/terms/**
       - /website/update/**
+    languages_mapping:
+      locale:
+        pt-PT: pt
+        zh-CN: zh_CN
+        zh-TW: zh_TW
