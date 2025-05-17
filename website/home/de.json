@@ -9,7 +9,10 @@
   "description": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen von virtuellen Tabs speichern und mit allen Geräten synchronisieren.",
   "watch_demo": "Demo ansehen",
   "install": {
-    "description": ["Installieren Sie Tabber für ein übersichtliches Browser-Erlebnis.", "Verfügbar für Chrome, Edge, Firefox und Opera. Organisieren Sie Ihre Tabs noch heute!"],
+    "description": [
+      "Installieren Sie Tabber für ein übersichtliches Browser-Erlebnis.",
+      "Verfügbar für Chrome, Edge, Firefox und Opera. Organisieren Sie Ihre Tabs noch heute!"
+    ],
     "info": "Die native Tab-Gruppenmanipulation im Browser ist nur in Chrome, Edge und Opera (nicht Opera GX) verfügbar. Für das beste Erlebnis empfehlen wir die Verwendung von Tabber in einem dieser Browser."
   },
   "pricing": {
@@ -44,7 +47,13 @@
       "submit": "Absenden",
       "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.",
       "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
-      "disclaimer": ["Mit dem Absenden dieses Formulars stimmen Sie unseren ", "Nutzungsbedingungen", " und ", "Datenschutzrichtlinien", " zu."]
+      "disclaimer": [
+        "Mit dem Absenden dieses Formulars stimmen Sie unseren ",
+        "Nutzungsbedingungen",
+        " und ",
+        "Datenschutzrichtlinien",
+        " zu."
+      ]
     }
   },
   "about": {
