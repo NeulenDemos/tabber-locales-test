@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "Check your email",
-    "description": ["A sign in link has been sent to your email address."],
+    "description": [
+      "A sign in link has been sent to your email address."
+    ],
     "open_gmail": "Open Gmail"
   }
 }
