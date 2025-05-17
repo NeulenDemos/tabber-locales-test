@@ -13,7 +13,7 @@
       "question": "Bu kafa karıştırıcı, rahatsız edici ya da başka bir şey mi?",
       "suggestion": {
         "label": "Bize bir soru sor",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "Hata veya eksik özellik nedir?",
       "suggestion": {
         "label": "Yardım için bizimle iletişime geçin",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "Gizlilikle ilgili endişeleriniz nelerdir?",
       "suggestion": {
         "label": "Gizlilik Politikamıza göz atın",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
