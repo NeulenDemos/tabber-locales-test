@@ -4,7 +4,13 @@
     "description": "关于 Tabber 的常见问题"
   },
   "title": "常见问题解答",
-  "footer": ["没找到您想要的答案吗？请使用以下", "联系表格", "或通过", "tabber@neulen.dev", "与我们联系。"],
+  "footer": [
+    "没找到您想要的答案吗？请使用以下",
+    "联系表格",
+    "或通过",
+    "tabber@neulen.dev",
+    "与我们联系。"
+  ],
   "items": [
     {
       "question": "在Firefox上无法捕获标签页。我该怎么办？",
