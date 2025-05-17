@@ -1,17 +1,38 @@
 {
   "meta": {
-    "title": "Tabber Plus",
+    "title": "",
     "description": "Tabber Plus ile Tabber'ın tam gücünü açığa çıkarın. Tabber deneyiminizi yükseltmek için tasarlanmış bir dizi premium özelliğe erişim sağlamak için abone olun."
   },
   "title": "Tabber Plus Abonesi Olun",
   "features": [
-    ["Sınırsız Sekme Grupları", "Gruplayabileceğiniz sekmelerin sayısında artık bir sınır yok."],
-    ["Gruplandırma için Gelişmiş Yapay Zeka Modeli", "Daha doğru ve verimli sekme gruplama için geliştirilmiş yapay zeka modeli; daha yüksek kullanım sınırları."],
-    ["Otomatik Bulut Senkronizasyonu", "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."],
-    ["Tam Senkronizasyon Geçmişi", "Tüm senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."],
-    ["Özel Arkaplan", "Önizleme olmayan sayfalara özel bir arkaplan uygulayın."],
-    ["Öncelikli Destek", "Herhangi bir soru ve endişe hızlı bir şekilde ele alınarak pürüzsüz bir deneyim sağlanır."],
-    ["Özel Patreon Gönderileri", "Patreon gönderilerine, anketlere özel erişim elde edin ve en son güncellemeler, ipuçları ve püf noktaları ile döngüde kalın."]
+    [
+      "Sınırsız Sekme Grupları",
+      "Gruplayabileceğiniz sekmelerin sayısında artık bir sınır yok."
+    ],
+    [
+      "Gruplandırma için Gelişmiş Yapay Zeka Modeli",
+      "Daha doğru ve verimli sekme gruplama için geliştirilmiş yapay zeka modeli; daha yüksek kullanım sınırları."
+    ],
+    [
+      "Otomatik Bulut Senkronizasyonu",
+      "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."
+    ],
+    [
+      "Tam Senkronizasyon Geçmişi",
+      "Tüm senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."
+    ],
+    [
+      "Özel Arkaplan",
+      "Önizleme olmayan sayfalara özel bir arkaplan uygulayın."
+    ],
+    [
+      "Öncelikli Destek",
+      "Herhangi bir soru ve endişe hızlı bir şekilde ele alınarak pürüzsüz bir deneyim sağlanır."
+    ],
+    [
+      "Özel Patreon Gönderileri",
+      "Patreon gönderilerine, anketlere özel erişim elde edin ve en son güncellemeler, ipuçları ve püf noktaları ile döngüde kalın."
+    ]
   ],
   "paragraphs": [
     {
@@ -24,11 +45,26 @@
     {
       "title": "Abone Olma Yöntemi",
       "items": [
-        ["Patreon Sayfamızı Ziyaret Edin", "Aşağıdaki 'Patreon'da Abone Ol' butonuna tıklayarak Patreon sayfamıza yönlendirilin."],
-        ["Patreon Hesabınızı Oluşturun veya Giriş Yapın", "Patreon'a yeniyseniz, bir hesap oluşturmanız gerekecek. Zaten bir hesabınız varsa, sadece giriş yapın."],
-        ["Abonelik Seviyesi Seçin", "«Plus» abonelik seviyesini seçin ve ödemeyi tamamlamak için talimatları takip edin."],
-        ["Patreon Kullanarak Tabber'a Giriş Yapın", "Abone olduktan sonra, Patreon hesabınızı kullanarak Tabber'a giriş yapmalısınız."],
-        ["Tabber Plus'ın Tadını Çıkarın", "Her şey hazır! Yeni Tabber Plus özelliklerinin keyfini çıkarın."]
+        [
+        "Patreon Sayfamızı Ziyaret Edin",
+        "Aşağıdaki 'Patreon'da Abone Ol' butonuna tıklayarak Patreon sayfamıza yönlendirilin."
+        ],
+        [
+        "Patreon Hesabınızı Oluşturun veya Giriş Yapın",
+        "Patreon'a yeniyseniz, bir hesap oluşturmanız gerekecek. Zaten bir hesabınız varsa, sadece giriş yapın."
+        ],
+        [
+        "Abonelik Seviyesi Seçin",
+        "«Plus» abonelik seviyesini seçin ve ödemeyi tamamlamak için talimatları takip edin."
+        ],
+        [
+        "Patreon Kullanarak Tabber'a Giriş Yapın",
+        "Abone olduktan sonra, Patreon hesabınızı kullanarak Tabber'a giriş yapmalısınız."
+        ],
+        [
+        "Tabber Plus'ın Tadını Çıkarın",
+        "Her şey hazır! Yeni Tabber Plus özelliklerinin keyfini çıkarın."
+        ]
       ],
       "note": "NOT: Tabber'a zaten giriş yapmışsanız, çıkış yapmalı ve Patreon hesabınızı kullanarak tekrar giriş yapmalısınız. Tabber ve Patreon e-posta adresleriniz eşleşmiyorsa, yeni bir kullanıcı olarak kaydedilir ve önceki verileriniz aktarılmaz."
     },
@@ -38,7 +74,13 @@
     },
     {
       "title": "Sorularınız mı var?",
-      "description": ["Herhangi bir sorunuz veya endişeniz varsa, lütfen ", "bizimle iletişime geçmekten", " çekinmeyin veya ", "SSS bölümümüzü", " kontrol edin."]
+      "description": [
+        "Herhangi bir sorunuz veya endişeniz varsa, lütfen ",
+        "bizimle iletişime geçmekten",
+        " çekinmeyin veya ",
+        "SSS bölümümüzü",
+        " kontrol edin."
+      ]
     }
   ],
   "subscribe": "Patreon'da Abone Ol"
