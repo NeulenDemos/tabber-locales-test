@@ -4,12 +4,15 @@
     "description": "Simplifica tu navegación guardando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronizándolas con todos tus dispositivos.",
     "keywords": "tabber, extensión tabber, gestor de pestañas, herramienta de grupos de pestañas, aplicación para guardar pestañas, organizar pestañas del navegador, grupos de pestañas virtuales, organizador de pestañas del navegador, sincronización de pestañas entre dispositivos, grupos de pestañas personalizables, extensión de productividad para navegador, gestionar pestañas no utilizadas, optimizar la navegación, organización de pestañas en múltiples dispositivos, herramienta de vista previa de pestañas, simplificar la navegación, mejor gestor de pestañas, aplicación de agrupación de pestañas para navegador, organizar pestañas fácilmente, herramienta de productividad para navegador"
   },
-  "title": "Tabber",
+  "title": "",
   "subtitle": "Solución definitiva para la organización de pestañas",
   "description": "Simplifica tu navegación guardando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronizándolas con todos tus dispositivos.",
   "watch_demo": "Ver demostración",
   "install": {
-    "description": ["Instala Tabber para una experiencia de navegación sin desorden.", "Disponible en Chrome, Edge, Firefox y Opera. ¡Organiza tus pestañas hoy mismo!"],
+    "description": [
+      "Instala Tabber para una experiencia de navegación sin desorden.",
+      "Disponible en Chrome, Edge, Firefox y Opera. ¡Organiza tus pestañas hoy mismo!"
+    ],
     "info": "La manipulación nativa de grupos de pestañas en el navegador solo está disponible en Chrome, Edge y Opera (no en Opera GX). Para la mejor experiencia, recomendamos usar Tabber en uno de estos navegadores."
   },
   "pricing": {
@@ -26,7 +29,7 @@
     ],
     "get_started": "Comenzar",
     "plus": {
-      "title": "Tabber Plus",
+      "title": "",
       "description": "Mejora tu experiencia de navegación web con Tabber Plus. Di adiós al desorden de pestañas y descubre un mundo de herramientas que mejoran la productividad y transformarán tu forma de trabajar en línea.",
       "upgrade": "Actualizar a Plus",
       "price": "Solo $%price%/mes"
@@ -44,7 +47,13 @@
       "submit": "Enviar",
       "success": "Tu mensaje se ha enviado con éxito. Nos pondremos en contacto contigo lo antes posible.",
       "error": "Ocurrió un error al enviar tu mensaje. Por favor, inténtalo de nuevo más tarde.",
-      "disclaimer": ["Al enviar este formulario, aceptas nuestros ", "términos de servicio", " y ", "política de privacidad", "."]
+      "disclaimer": [
+        "Al enviar este formulario, aceptas nuestros ",
+        "términos de servicio",
+        " y ",
+        "política de privacidad",
+        ""
+      ]
     }
   },
   "about": {
