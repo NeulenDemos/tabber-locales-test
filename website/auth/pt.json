@@ -1,48 +1,50 @@
 {
   "meta": {
     "sign_in": {
-      "title": "Entrar",
-      "description": "Entre no Tabber usando e-mail ou redes sociais"
+      "title": "Sign In",
+      "description": "Sign in to Tabber via email or social media"
     },
     "sign_out": {
-      "title": "Sair",
-      "description": "Você foi desconectado do Tabber"
+      "title": "Sign Out",
+      "description": "You have been signed out from Tabber"
     },
     "error": {
-      "title": "Erro",
-      "description": "Algo deu errado ao tentar entrar"
+      "title": "Error",
+      "description": "Something went wrong while signing in"
     },
     "verify_request": {
-      "title": "Verifique seu e-mail",
-      "description": "Um link de acesso foi enviado para o seu e-mail"
+      "title": "Check your email",
+      "description": "A sign in link has been sent to your email address"
     }
   },
   "sign_in": {
-    "title": "Cadastre-se no Tabber",
-    "or": "Ou",
-    "continue_with": "Continuar com %s",
-    "sign_in_with_email": "Entrar com o email",
-    "email_address": "Endereço de e-mail"
+    "title": "Sign Up to Tabber",
+    "or": "Or",
+    "continue_with": "Continue with %s",
+    "sign_in_with_email": "Sign in with Email",
+    "email_address": "Email Address"
   },
   "sign_out": {
-    "title": "Você saiu",
+    "title": "You have been signed out",
     "description": [
-      "Você ainda pode usar o Tabber, mas seus dados não serão salvos nem sincronizados entre dispositivos.",
-      "Para habilitar a sincronização na nuvem, por favor, entre novamente."
+      "You can still use Tabber, but your data will not be backed up and synchronized across devices.",
+      "To enable cloud sync, please sign in again."
     ],
-    "return": "Retornar ao Tabber"
+    "return": "Return to Tabber"
   },
   "error": {
-    "title": "Algo deu errado",
+    "title": "Something went wrong",
     "description": [
-      "Por favor, tente entrar novamente.",
-      "Você também pode tentar entrar usando um método diferente.",
-      "Se o problema persistir, fique à vontade para nos contatar."
+      "Please try to sign in again.",
+      "You can also try to sign in using a different method.",
+      "If the problem persists, feel free to contact us."
     ]
   },
   "verify_request": {
-    "title": "Verifique seu e-mail",
-    "description": ["Um link de acesso foi enviado para o seu endereço de e-mail."],
-    "open_gmail": "Abrir Gmail"
+    "title": "Check your email",
+    "description": [
+      "A sign in link has been sent to your email address."
+    ],
+    "open_gmail": "Open Gmail"
   }
 }
