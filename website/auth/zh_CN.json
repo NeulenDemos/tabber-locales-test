@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "检查您的电子邮件",
-    "description": ["登录链接已发送到您的电子邮件地址。"],
+    "description": [
+      "登录链接已发送到您的电子邮件地址。"
+    ],
     "open_gmail": "打开Gmail"
   }
 }
