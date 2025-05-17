@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "",
+      "description": ""
+    },
+    "sign_out": {
+      "title": "",
+      "description": ""
+    },
+    "error": {
+      "title": "",
+      "description": ""
+    },
+    "verify_request": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "sign_in": {
+    "title": "",
+    "or": "",
+    "continue_with": "",
+    "sign_in_with_email": "",
+    "email_address": ""
+  },
+  "sign_out": {
+    "title": "",
+    "description": [
+      "",
+      ""
+    ],
+    "return": ""
+  },
+  "error": {
+    "title": "",
+    "description": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "verify_request": {
+    "title": "",
+    "description": [
+      ""
+    ],
+    "open_gmail": ""
+  }
+}
