@@ -4,7 +4,13 @@
     "description": "Frequently asked questions about Tabber"
   },
   "title": "Frequently Asked Questions",
-  "footer": ["Didn't find the answer you were looking for? Use the following ", "contact form", " or contact us at ", "tabber@neulen.dev", "."],
+  "footer": [
+    "Didn't find the answer you were looking for? Use the following ",
+    "contact form",
+    " or contact us at ",
+    "tabber@neulen.dev",
+    "."
+  ],
   "items": [
     {
       "question": "Can't capture tab on Firefox. What should I do?",
