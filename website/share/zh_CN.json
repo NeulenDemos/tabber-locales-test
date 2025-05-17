@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": {
-      "default": "%color% %name%",
+      "default": "",
       "no_name": "%color% 标签组"
     },
     "description": {
