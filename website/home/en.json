@@ -9,7 +9,10 @@
   "description": "Simplify your browsing by preserving unused tabs into organized groups of virtual tabs and synchronize them with all devices.",
   "watch_demo": "Watch demo",
   "install": {
-    "description": ["Install Tabber for a clutter-free browsing experience.", "Available on Chrome, Edge, Firefox, and Opera. Streamline your tabs today!"],
+    "description": [
+      "Install Tabber for a clutter-free browsing experience.",
+      "Available on Chrome, Edge, Firefox, and Opera. Streamline your tabs today!"
+    ],
     "info": "Browser-native tab groups manipulation is only available on Chrome, Edge and Opera (not Opera GX). For the best experience, we recommend using Tabber on one of these browsers."
   },
   "pricing": {
@@ -28,7 +31,6 @@
     "plus": {
       "title": "Tabber Plus",
       "description": "Upgrade your web browsing experience with Tabber Plus. Say goodbye to tab clutter and discover a world of productivity-enhancing tools that will transform the way you work online.",
-
       "upgrade": "Upgrade to Plus",
       "price": "Only $%price%/month"
     }
@@ -45,7 +47,13 @@
       "submit": "Submit",
       "success": "Your message has been sent successfully. We will get back to you as soon as possible.",
       "error": "An error occurred while sending your message. Please try again later.",
-      "disclaimer": ["By submitting this form, you agree to our ", "terms of service", " and ", "privacy policy", "."]
+      "disclaimer": [
+        "By submitting this form, you agree to our ",
+        "terms of service",
+        " and ",
+        "privacy policy",
+        "."
+      ]
     }
   },
   "about": {
