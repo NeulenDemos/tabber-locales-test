@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Feedback",
+    "title": "",
     "description": "Ajude-nos a melhorar o Tabber compartilhando seu feedback conosco."
   },
   "title": "Estamos tristes em ver você partir! 😢",
@@ -13,7 +13,7 @@
       "question": "Foi confuso, irritante ou outra coisa?",
       "suggestion": {
         "label": "Faça-nos uma pergunta",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "bug_or_missing_feature": {
@@ -21,7 +21,7 @@
       "question": "Qual foi o bug ou recurso ausente?",
       "suggestion": {
         "label": "Contate-nos para obter ajuda",
-        "link": "/#contact"
+        "link": ""
       }
     },
     "privacy_concerns": {
@@ -29,7 +29,7 @@
       "question": "Quais são suas preocupações de privacidade?",
       "suggestion": {
         "label": "Confira nossa Política de Privacidade",
-        "link": "/privacy"
+        "link": ""
       }
     },
     "found_better_alternative": {
