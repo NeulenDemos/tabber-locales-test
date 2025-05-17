@@ -1,103 +1,103 @@
 {
   "meta": {
-    "title": "Novidades",
-    "description": "O Tabber foi atualizado! Confira os novos recursos e melhorias."
+    "title": "What's New",
+    "description": "Tabber has been updated! Check out the new features and improvements."
   },
   "1.5": {
-    "title": "Tabber atualizado para a versão 1.5",
-    "subtitle": "Descubra os novos recursos e melhorias",
+    "title": "Tabber Updated to Version 1.5",
+    "subtitle": "Discover the Latest Features and Enhancements",
     "content_main": [
       {
-        "title": "Excluir grupos da preservação",
+        "title": "Exclude Groups from Preservation",
         "description": [
-          "Agora você pode excluir grupos específicos de guias da preservação. Basta adicionar os grupos à lista de exclusão usando seu nome ou cor. Não disponível no Firefox.",
-          "Este recurso está disponível em Configurações → Exclusões → Exclusão de Grupos."
+          "You can now exclude specific tab groups from being preserved. Simply add groups to the exclusion list using their name or color. Not available in Firefox.",
+          "This feature is available under Settings → Exclusions → Groups Exclusions."
         ],
         "image": "/static/update/1.5/groups-exclusions.jpg"
       },
       {
-        "title": "Detectar entradas de formulários não salvas",
+        "title": "Detect Unsaved Form Inputs",
         "description": [
-          "O Tabber agora verifica entradas de formulários não salvas antes de preservar uma guia. Se forem detectadas alterações não salvas, a guia não será preservada, ajudando a evitar perda acidental de dados.",
-          "Ative este recurso em Configurações → Preservação Automática → Não Preservar Guias com Formulários Não Salvos."
+          "Tabber now checks for unsaved form inputs before preserving a tab. If unsaved changes are detected, the tab will not be preserved, helping you avoid accidental data loss.",
+          "Enable this feature under Settings → Auto Preserve → Don't Preserve Tabs with Unsaved Form Inputs."
         ],
         "image": "/static/update/1.5/unsaved-form-inputs.jpg"
       },
       {
-        "title": "Salvar marcações de tempo do YouTube",
+        "title": "Save YouTube Timestamps",
         "description": [
-          "Agora é possível preservar guias com vídeos do YouTube junto com suas marcações de tempo, permitindo retomar a reprodução de onde você parou.",
-          "Ative esta opção em Configurações → Recursos de Sites → Salvar Marcações de Tempo do YouTube."
+          "Tabs with YouTube videos can now be preserved along with their timestamps, allowing you to resume playback from where you left off.",
+          "You can activate this option under Settings → Sites Features → Save YouTube Timestamps."
         ],
         "image": "/static/update/1.5/youtube-timestamps.jpg"
       },
       {
-        "title": "Identificar guias e grupos pelo título",
+        "title": "Identify Tabs and Groups by Title",
         "description": [
-          "Guias e grupos agora podem ser identificados pelo título em vez de IDs internos. Isso resolve o problema de reinicializar alguns navegadores (como o Google Chrome), que redefinia o temporizador de preservação automática e desconectava os grupos no navegador e no Tabber.",
-          "Encontre esta opção em Configurações → Configurações Avançadas → Identificar Guias pelo Título."
+          "Tabs and groups can now be identified by their title instead of internal IDs. This resolves the issue that after restarting some browsers (such as Google Chrome), the auto-preservation timer was reset, as well as the connection between groups in the browser and in Tabber.",
+          "Find this option under Settings → Advanced Settings → Identify Tabs by Title."
         ],
         "image": "/static/update/1.5/identify-tabs-by-title.jpg"
       },
       {
-        "title": "Confirmação para ações críticas",
+        "title": "Confirmation for Critical Actions",
         "description": [
-          "O Tabber agora exige uma confirmação de clique duplo para ações críticas, como preservar ou restaurar todas as guias, para evitar alterações acidentais."
+          "Tabber now requires a double-click confirmation for critical actions, such as preserving or restoring all tabs, to prevent accidental changes."
         ],
         "image": "/static/update/1.5/confirmations.jpg"
       }
     ],
     "content_additional": {
-      "title": "Outras Melhorias",
+      "title": "Other Improvements",
       "description": [
-        "Agora você pode alternar a aba ativa usando as teclas de seta para uma navegação mais rápida.",
-        "Um botão de suporte foi adicionado ao popup da extensão.",
-        "Resolvido um problema na criação de pré-visualizações para abas inativas."
+        "You can now switch the active tab using arrow keys for faster navigation.",
+        "A support button has been added to the extension popup.",
+        "Resolved an issue with making previews for inactive tabs."
       ]
     }
   },
   "1.8": {
-    "title": "Tabber Atualizado para a Versão 1.8",
-    "subtitle": "Descubra os Recursos e Melhorias Mais Recentes",
+    "title": "Tabber Updated to Version 1.8",
+    "subtitle": "Discover the Latest Features and Enhancements",
     "content_main": [
       {
-        "title": "Abas Verticais",
+        "title": "Vertical Tabs",
         "description": [
-          "O recurso que muitos esperavam há tanto tempo!",
-          "Agora com múltiplas abas, a navegação entre elas será mais fácil. A aparência desta lista pode ser personalizada de forma flexível através das configurações. Além disso, agora sempre haverá apenas uma linha de abas."
+          "The very feature that many have been waiting for so long!",
+          "Now with multiple tabs, navigation between them will be easier. The appearance of this list can be flexibly customized through settings. Also, there will now always be only one row of tabs."
         ],
         "image": "/static/update/1.8/vertical-tabs.jpg"
       },
       {
-        "title": "Selecionar o grupo de abas para agrupamento",
+        "title": "Select the tab group for grouping",
         "description": [
-          "Apesar da tautologia, este é um recurso igualmente necessário.",
-          "Agora você pode agrupar não apenas todas as abas preservadas, mas seletivamente agrupar abas específicas. Basta selecionar o grupo desejado no menu pop-up."
+          "Despite the tautology, here's an equally necessary feature.",
+          "Now you can group not only all preserved tabs but selectively group specific ones. Simply select the desired group in the popup menu."
         ],
         "image": "/static/update/1.8/select-tab-group.jpg"
       },
       {
-        "title": "Mesclar grupos de abas",
+        "title": "Merge tab groups",
         "description": [
-          "Uma função para mesclar grupos de abas foi adicionada.",
-          "Para fazer isso, clique com o botão direito em um grupo e selecione 'Mesclar com'."
+          "A function for merging tab groups has been added.",
+          "To do this, right-click on a group and select 'Merge with'."
         ],
         "image": "/static/update/1.8/merge-tab-groups.jpg"
       },
       {
-        "title": "Página de Apoiadores",
+        "title": "Supporters Page",
         "description": [
-          "Agora, quando você apoia o projeto no Patreon, seu nome será exibido na página de créditos. Você pode escolher seu nome de exibição, avatar ou permanecer anônimo.",
-          "Esta página pode ser encontrada no rodapé deste site."
+          "Now when you support the project on Patreon, your name will be displayed on the credits page. You can choose your display name, avatar, or remain anonymous.",
+          "This page can be found in the footer of this site."
         ],
         "image": "/static/update/1.8/supporters-page.jpg"
       }
     ],
     "content_additional": {
-      "title": "Outras Melhorias",
+      "title": "Other Improvements",
       "description": [
-        "Adicionados ícones ao menu de seleção de itens da barra de ferramentas.",
-        "Adicionada uma cor padrão ao seletor de cores."
+        "Added icons to the toolbar items select menu.",
+        "Added a default color to the color picker."
       ]
     }
   }
