@@ -4,7 +4,13 @@
     "description": "Perguntas frequentes sobre o Tabber"
   },
   "title": "Perguntas Frequentes",
-  "footer": ["Não encontrou a resposta que procurava? Use o seguinte ", "formulário de contato", " ou entre em contato conosco em ", "tabber@neulen.dev", "."],
+  "footer": [
+    "Não encontrou a resposta que procurava? Use o seguinte ",
+    "formulário de contato",
+    " ou entre em contato conosco em ",
+    "",
+    ""
+  ],
   "items": [
     {
       "question": "Não consigo capturar aba no Firefox. O que devo fazer?",
