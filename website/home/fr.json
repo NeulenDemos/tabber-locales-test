@@ -4,12 +4,15 @@
     "description": "Simplifiez votre navigation en conservant les onglets inutilisés dans des groupes d'onglets virtuels organisés et en les synchronisant avec tous vos appareils.",
     "keywords": "tabber, extension tabber, gestionnaire d’onglets, outil de groupes d’onglets, application pour enregistrer des onglets, organiser les onglets du navigateur, groupes d’onglets virtuels, organisateur d’onglets de navigateur, synchronisation d’onglets entre appareils, groupes d’onglets personnalisables, extension de productivité pour navigateur, gérer les onglets inutilisés, optimiser la navigation, organisation d’onglets multi-appareils, outil d’aperçu des onglets, simplifier la navigation, meilleur gestionnaire d’onglets, application de regroupement d’onglets de navigateur, organiser les onglets facilement, outil de productivité pour navigateur"
   },
-  "title": "Tabber",
+  "title": "",
   "subtitle": "La solution ultime pour l'organisation des onglets",
   "description": "Simplifiez votre navigation en conservant les onglets inutilisés dans des groupes d'onglets virtuels organisés et en les synchronisant avec tous vos appareils.",
   "watch_demo": "Regarder la démo",
   "install": {
-    "description": ["Installez Tabber pour une expérience de navigation sans encombrement.", "Disponible sur Chrome, Edge, Firefox et Opera. Rationalisez vos onglets dès aujourd'hui !"],
+    "description": [
+      "Installez Tabber pour une expérience de navigation sans encombrement.",
+      "Disponible sur Chrome, Edge, Firefox et Opera. Rationalisez vos onglets dès aujourd'hui !"
+    ],
     "info": "La manipulation native des groupes d'onglets dans le navigateur est uniquement disponible sur Chrome, Edge et Opera (pas sur Opera GX). Pour une expérience optimale, nous recommandons d'utiliser Tabber sur l'un de ces navigateurs."
   },
   "pricing": {
@@ -26,7 +29,7 @@
     ],
     "get_started": "Commencer",
     "plus": {
-      "title": "Tabber Plus",
+      "title": "",
       "description": "Améliorez votre expérience de navigation Web avec Tabber Plus. Dites adieu au désordre des onglets et découvrez un monde d'outils améliorant la productivité qui transformeront votre manière de travailler en ligne.",
       "upgrade": "Passer à Plus",
       "price": "Seulement $%price%/mois"
@@ -40,11 +43,17 @@
       "title": "Contactez-nous",
       "name": "Nom",
       "email": "E-mail",
-      "message": "Message",
+      "message": "",
       "submit": "Envoyer",
       "success": "Votre message a été envoyé avec succès. Nous vous répondrons dès que possible.",
       "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard.",
-      "disclaimer": ["En soumettant ce formulaire, vous acceptez nos ", "conditions d'utilisation", " et ", "politique de confidentialité", "."]
+      "disclaimer": [
+        "En soumettant ce formulaire, vous acceptez nos ",
+        "conditions d'utilisation",
+        " et ",
+        "politique de confidentialité",
+        ""
+      ]
     }
   },
   "about": {
