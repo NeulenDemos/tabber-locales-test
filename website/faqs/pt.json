@@ -1,72 +1,72 @@
 {
   "meta": {
-    "title": "FAQs",
-    "description": "Frequently asked questions about Tabber"
+    "title": "Perguntas Frequentes",
+    "description": "Perguntas frequentes sobre o Tabber"
   },
-  "title": "Frequently Asked Questions",
+  "title": "Perguntas Frequentes",
   "footer": [
-    "Didn't find the answer you were looking for? Use the following ",
-    "contact form",
-    " or contact us at ",
+    "Não encontrou a resposta que procurava? Use o seguinte ",
+    "formulário de contato",
+    " ou entre em contato conosco em ",
     "tabber@neulen.dev",
     "."
   ],
   "items": [
     {
-      "question": "Can't capture tab on Firefox. What should I do?",
+      "question": "Não consigo capturar aba no Firefox. O que devo fazer?",
       "answer": [
-        "It can happen if the necessary permissions are not granted.",
-        "To allow them, click on the extensions icon in the top right browser's corner and select «Manage extensions». Then click on Tabber extension, then «Permissions» and enable «Access your data for all websites» permission."
+        "Isso pode acontecer se as permissões necessárias não forem concedidas.",
+        "Para permiti-las, clique no ícone de extensões no canto superior direito do navegador e selecione «Gerenciar extensões». Depois clique na extensão Tabber, em seguida em «Permissões» e habilite a permissão «Acessar seus dados em todos os sites»."
       ]
     },
     {
-      "question": "Why tabs previews are not available?",
+      "question": "Por que as pré-visualizações das abas não estão disponíveis?",
       "answer": [
-        "There are several reasons why this might happen:",
-        "1. You have disabled the «Make preview on preserve» option in the extension settings.",
-        "2. You have preserved the whole tab group with that tab in it. But previews are only available for tabs that are preserved individually.",
-        "3. Tab was loaded from the cloud, but the preview was saved locally on another device or was deleted after the last synchronization.",
-        "4. There was some another error. Try to restart browser or reinstall extension.",
-        "Most of this problems can be solved by enabling the cloud preview saving in the settings."
+        "Existem várias razões pelas quais isso pode acontecer:",
+        "1. Você desativou a opção «Fazer pré-visualização ao preservar» nas configurações da extensão.",
+        "2. Você preservou todo um grupo de abas com essa aba incluída. Mas as pré-visualizações só estão disponíveis para abas que são preservadas individualmente.",
+        "3. A aba foi carregada da nuvem, mas a pré-visualização foi salva localmente em outro dispositivo ou foi excluída após a última sincronização.",
+        "4. Ocorreu algum outro erro. Tente reiniciar o navegador ou reinstalar a extensão.",
+        "A maioria desses problemas pode ser resolvida ativando o salvamento de pré-visualizações na nuvem nas configurações."
       ]
     },
     {
-      "question": "How to change the language?",
+      "question": "Como alterar o idioma?",
       "answer": [
-        "Extension language is automatically selected based on your browser language. To change it, you need to change the browser language."
+        "O idioma da extensão é selecionado automaticamente com base no idioma do seu navegador. Para alterá-lo, você precisa mudar o idioma do navegador."
       ]
     },
     {
-      "question": "What does auto synchronization with the cloud mean?",
+      "question": "O que significa sincronização automática com a nuvem?",
       "answer": [
-        "This means that the extension will automatically synchronize your data with the cloud every time you make changes to your tabs.",
-        "If you occasionally delete a tab or a tab group, you can always restore it from the cloud backups."
+        "Isso significa que a extensão sincronizará automaticamente seus dados com a nuvem toda vez que você fizer alterações em suas abas.",
+        "Se você acidentalmente excluir uma aba ou um grupo de abas, você pode sempre restaurá-los a partir dos backups na nuvem."
       ]
     },
     {
-      "question": "How do I move tabs between groups?",
+      "question": "Como mover abas entre grupos?",
       "answer": [
-        "To move tabs between groups, click and hold the tab you want to move, then drag it to the desired group."
+        "Para mover abas entre grupos, clique e segure a aba que deseja mover e depois arraste-a para o grupo desejado."
       ]
     },
     {
-      "question": "I have subscribed to Tabber Plus, but I still don't have access to the Plus features.",
+      "question": "Eu me inscrevi no Tabber Plus, mas ainda não tenho acesso às funcionalidades Plus.",
       "answer": [
-        "If you logged in using your Patreon account, but still don't have access to the Plus features, try to restart your browser or reboot the device."
+        "Se você fez login usando sua conta do Patreon, mas ainda não tem acesso às funcionalidades Plus, tente reiniciar o navegador ou reiniciar o dispositivo."
       ]
     },
     {
-      "question": "How can I stop my Plus subscription?",
+      "question": "Como posso cancelar minha assinatura Plus?",
       "answer": [
-        "You can cancel your subscription at any time. To do this, go to your Patreon account, select «My memberships» and click «Edit» next to Tabber Plus. Then click «Cancel membership».",
-        "After that, your subscription will be canceled and you will not be charged for the next month. However, you will still have access to Tabber Plus features until the end of the current billing period."
+        "Você pode cancelar sua assinatura a qualquer momento. Para isso, acesse sua conta Patreon, selecione «Minhas assinaturas» e clique em «Editar» ao lado de Tabber Plus. Em seguida, clique em «Cancelar assinatura».",
+        "Após isso, sua assinatura será cancelada e você não será cobrado no próximo mês. No entanto, você ainda terá acesso aos recursos do Tabber Plus até o final do período de cobrança atual."
       ]
     },
     {
-      "question": "How to change keyboard shortcuts on Firefox?",
+      "question": "Como alterar os atalhos do teclado no Firefox?",
       "answer": [
-        "Firefox requires to manually change the keyboard shortcuts in the browser settings.",
-        "To change them, click on the extensions icon in the top right browser's corner and select «Manage extensions». Then click on the gear icon in the top right corner and select «Manage extension shortcuts»."
+        "O Firefox requer que os atalhos do teclado sejam alterados manualmente nas configurações do navegador.",
+        "Para alterá-los, clique no ícone de extensões no canto superior direito do navegador e selecione «Gerenciar extensões». Em seguida, clique no ícone de engrenagem no canto superior direito e selecione «Gerenciar atalhos de extensões»."
       ]
     }
   ]
