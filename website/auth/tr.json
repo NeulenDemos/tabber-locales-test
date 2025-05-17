@@ -42,7 +42,9 @@
   },
   "verify_request": {
     "title": "E-postanızı kontrol edin",
-    "description": ["Giriş bağlantısı e-posta adresinize gönderildi."],
+    "description": [
+      "Giriş bağlantısı e-posta adresinize gönderildi."
+    ],
     "open_gmail": "Gmail'i Aç"
   }
 }
