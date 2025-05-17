@@ -1,48 +1,48 @@
 {
   "meta": {
     "title": "Feedback",
-    "description": "Help us improve Tabber by sharing your feedback with us."
+    "description": "Ajude-nos a melhorar o Tabber compartilhando seu feedback conosco."
   },
-  "title": "We're sad to see you go! 😢",
-  "description": "Please let us know why you're removing Tabber so we can improve our service. Your experience matters to us ^_^",
-  "submit": "Submit",
-  "success": "Thank you for your feedback! 😊",
+  "title": "Estamos tristes em ver você partir! 😢",
+  "description": "Por favor, nos informe por que você está removendo o Tabber para que possamos melhorar nosso serviço. Sua experiência é importante para nós ^_^",
+  "submit": "Enviar",
+  "success": "Obrigado pelo seu feedback! 😊",
   "items": {
     "usability_issues": {
-      "label": "I found Tabber difficult to use",
-      "question": "Was it confusing, annoying, or something else?",
+      "label": "Achei o Tabber difícil de usar",
+      "question": "Foi confuso, irritante ou outra coisa?",
       "suggestion": {
-        "label": "Ask us a question",
+        "label": "Faça-nos uma pergunta",
         "link": "/#contact"
       }
     },
     "bug_or_missing_feature": {
-      "label": "I ran into a bug or couldn't find a feature",
-      "question": "What was the bug or missing feature?",
+      "label": "Encontrei um bug ou não consegui encontrar um recurso",
+      "question": "Qual foi o bug ou recurso ausente?",
       "suggestion": {
-        "label": "Contact us for help",
+        "label": "Contate-nos para obter ajuda",
         "link": "/#contact"
       }
     },
     "privacy_concerns": {
-      "label": "I have privacy concerns (data usage, tracking, etc.)",
-      "question": "What are your privacy concerns?",
+      "label": "Tenho preocupações com privacidade (uso de dados, rastreamento, etc.)",
+      "question": "Quais são suas preocupações de privacidade?",
       "suggestion": {
-        "label": "Check our Privacy Policy",
+        "label": "Confira nossa Política de Privacidade",
         "link": "/privacy"
       }
     },
     "found_better_alternative": {
-      "label": "I found a better alternative",
-      "question": "What alternative did you find?"
+      "label": "Encontrei uma alternativa melhor",
+      "question": "Qual alternativa você encontrou?"
     },
     "no_longer_needed": {
-      "label": "I no longer need the extension",
-      "question": "What’s changed in your needs?"
+      "label": "Não preciso mais da extensão",
+      "question": "O que mudou em suas necessidades?"
     },
     "other": {
-      "label": "Other",
-      "question": "What's the reason for removing Tabber?"
+      "label": "Outro",
+      "question": "Qual é o motivo para remover o Tabber?"
     }
   }
 }
